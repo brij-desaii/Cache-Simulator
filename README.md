@@ -3,7 +3,9 @@ Simulating a set associative cache with a LRU (least recently used) replacement 
 
 Instructions to run the code:
 <ol>
-<li>Download the .py file onto your local system and run it</li>
+<li>Clone the repository onto your local system 
+<li>Run the .py file</li>
 <li>You will see input prompts asking for cache size, block size and number of ways</li>
 <li>Enter the data and results will be displayed in the terminal</li>
 </ol>
+
