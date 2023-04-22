@@ -9,3 +9,4 @@ Instructions to run the code:
 <li>Enter the data and results will be displayed in the terminal</li>
 </ol>
 
+->report.pdf contains detalied overview of results and observation
